@@ -5,7 +5,7 @@
 ### App Description
 My app is capable of both the required and the optional features. It can allow the user to set a custom text, change the color of the background and the text and then take it back to the original by clicking anywhere on the background. 
 
-### App Walk-though
+### App Walk-through
 
 <img src="codepathgif.gif" width=200><br>
 
