@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple"
+    android:id="@+id/parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello from Baris!"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/black"
+        android:layout_marginTop="50dp"
+        android:textSize="39sp" />
+
+    <TextView
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:background="#f6f5f5"
+        android:text="Click to change text color"
+        android:textColor="@color/black"
+        android:padding="10dp"
+        android:layout_alignParentBottom="true"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/changeBackgroundButton"
+        android:layout_above="@+id/button"
+        android:layout_centerHorizontal="true"
+        android:background="#f6f5f5"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Click to change background color" />
+
+    <TextView
+        android:id="@+id/changeTextButton"
+        android:layout_above="@+id/changeBackgroundButton"
+        android:layout_centerHorizontal="true"
+        android:background="#f6f5f5"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="27dp"
+        android:text="Click to change text" />
+
+    <EditText
+        android:layout_above="@+id/changeTextButton"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Create your own!" />
+
+    <TextView
+        android:id="@+id/changeCustomTextButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/changeTextButton"
+        android:layout_marginTop="27dp"
+        android:layout_marginBottom="80dp"
+        android:background="#f6f5f5"
+        android:layout_centerHorizontal="true"
+        android:text="Click to change to your text"
+        android:textColor="@color/black"
+        android:textSize="24sp" />
+
+
+</RelativeLayout>
