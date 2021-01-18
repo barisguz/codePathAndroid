@@ -1,7 +1,6 @@
 # codepathandroid
-My Codepath Prework Submission
-
-MY APPLICATION - BARIS
+#### My Codepath Prework Submission
+### BARIS GUZELSOY
 
 ### App Description
 My app is capable of both the required and the optional features. It can allow the user to set a custom text, change the color of the background and the text and then take it back to the original by clicking anywhere on the background. 
