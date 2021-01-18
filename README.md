@@ -1,4 +1,4 @@
-# codepathandroid
+# Code for the Android App by Baris
 #### My Codepath Prework Submission
 ### BARIS GUZELSOY
 
