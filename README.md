@@ -4,12 +4,11 @@ My Codepath Prework Submission
 MY APPLICATION - BARIS
 
 ### App Description
-My app is capable of both the required and the optional features. It can allow the user to set a custom text, change the color of the background and the text and then take it back by clicking anywhere on the background. 
+My app is capable of both the required and the optional features. It can allow the user to set a custom text, change the color of the background and the text and then take it back to the original by clicking anywhere on the background. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="imgur.com/AM8hyMn" width=200><br>
+<img src="codepathgif.gif" width=200><br>
 
 
 ### Required User Stories
